@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 
-I’m a 3rd year B.E. IT student at UIET, Chandigarh (Batch 2026), deeply passionate about **web and mobile app development**. I’ve been building real-world full-stack projects using the **MERN stack**, **Supabase**, and **React Native** since my first year.
+I’m a 4th year B.E. IT student at UIET, Chandigarh (Batch 2026), deeply passionate about **web and mobile app development**. I’ve been building real-world full-stack projects using the **MERN stack**, **Supabase**, and **React Native** since my first year.
 
 > My focus: building real, scalable applications with clean architecture and modern UI/UX.
 
